@@ -1,0 +1,111 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.jumbotron
+{
+	text-align: center;
+	background-image: url('../images/Hero-Image.jpg');
+	color: white;
+}
+
+.jumbotron h1
+{
+	margin-top: 0px;
+	margin-bottom: 30px;
+}
+
+.jumbotron p
+{
+	font-weight:  100;
+	color: blue;
+	margin-bottom: 30px;
+	padding: 0 40px;
+}
+
+#get-involved
+{
+	background-color: #f5f5f5;
+	padding-top:  30px;
+	padding-bottom: 30px;
+}
+
+.btn-lg
+{
+	font-size: 36px;
+}
+
+.fa-stack
+{
+	position: center;
+}
+.test_color a
+{
+	color: red;
+}
+.emphasis
+{
+	color: red;
+	font-size: 20px;
+}
+.homepage
+{
+	text-align: center;
+}
+.homepage h2
+{
+	color: red;
+	text-transform: uppercase;
+}
+.homepage h3
+{
+	color: red;
+	text-transform: uppercase;
+}
+.homepage a
+{
+	color: red;
+}
+.homepage a:hover
+{
+	color: red;
+	opacity: 0.5;
+}
+
+.homepage hr
+{
+	border-top:  1px solid red;
+	width: 160px;
+	margin-top: 15px;
+}
+.homepage span
+{
+	text-transform: none;
+	color: red;
+	font-size: 24px;
+	font-family: "Comic Sans MS";
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
